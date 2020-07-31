@@ -1,1 +1,2 @@
 this is d.txt file
+added new line
