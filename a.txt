@@ -1,1 +1,2 @@
 this is a.txt file
+This is created as sample
