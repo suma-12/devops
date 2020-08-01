@@ -1,4 +1,6 @@
 this is e.txt file
+learning
+cooking
 
 adding new line
 
