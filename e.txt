@@ -1,5 +1,8 @@
 this is e.txt file
 smoking
+learning
+cooking
+
 
 adding new line
 
