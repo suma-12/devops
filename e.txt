@@ -1,1 +1,6 @@
 this is e.txt file
+
+adding new line
+
+
+making changes
